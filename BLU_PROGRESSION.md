@@ -33,9 +33,87 @@ Base armor ──► 109 ──► 119 ("+1") ──► +2 ──► +3 ──�
 - **The +2 step differs by set** (see each phase below).
 - **+4** (Limbus) requires the piece to already be **+3** — far future, not on your critical path.
 
-**Per-slot reforge materials** (Phoenix Feather, Malboro Fiber, Beetle Blood, Damascene Cloth, Oxblood,
-Imperial Silk Cloth, etc.): you reported owning the Magus/Hashishin mats. **[CONFIRM the exact list per
-piece at Monisette]** before each reforge — the NPC shows the precise requirement.
+**Per-slot reforge materials** are itemized with current Bahamut prices in the next section.
+
+---
+
+## Reforge materials & Bahamut AH costs (through +2)
+
+> **Prices** are FFXIAH **Bahamut single-item median**, pulled **June 2026**. Medians move (thin-traded
+> Delve mats swing a lot) — treat as ballpark and re-check on FFXIAH before a big buy.
+> **"Your remaining cost"** subtracts what you already own: **12× every Rem's Tale chapter** and **4+
+> Isgebind's Hearts**. **Content currencies are not AH-buyable** and show no gil: Gallimaufry, Ra'Kaznar
+> Sapphire/Starstone (Sortie); BLU Paragon Cards (Omen); job/slot Shards (Dynamis-D / Beastmen's Medals);
+> Escha Beads (delivery fees).
+> Where a quantity or item couldn't be confirmed from a wiki (both wikis block scraping; data came from
+> search excerpts), it's flagged **[CONFIRM at Monisette/Coelestrox]** — the NPC is the live truth.
+
+### Empyrean (Hashishin) — cheap mats; the real gate is **Vagary**, not gil
+Each reforge step takes **1× the slot material below + Rem's Tale chapter (×5 at 109, ×10 at 119) + 1
+Isgebind's Heart at the 119 step**. The 119 step also needs the **Vagary Mega Boss title** for that slot.
+**+2 is content-only** (10,000 Gallimaufry + 1 Ra'Kaznar Sapphire at Ruspix via Sortie) — effectively
+gil-free if you run Sortie.
+
+| Slot / piece | Slot material | Bahamut median | Your status | Remaining AH mats |
+|---|---|---|---|---|
+| Head — Hashishin Kavuk | Phoenix Feather | 20,000 | at 109 → needs 119 | **20,000** |
+| Body — Hashishin Mintan | Malboro Fiber | 70,000 | at 109 → needs 119 | **70,000** |
+| Hands — Hashishin Bazubands | Beetle Blood | 50,000 | at 109 → needs 119 | **50,000** |
+| Feet — Hashishin Basmak | Oxblood | 20,000 | at 109 → needs 119 | **20,000** |
+| Legs — Hashishin Tayt | Damascene Cloth | 30,000 | not reforged → needs 109 **and** 119 | **60,000** (×2) |
+
+- **Empyrean set remaining AH mats ≈ 220,000 gil** — chapters and Hearts are covered, so this is the
+  whole out-of-pocket cost. **Gil is not the Empyrean constraint; the Vagary title (SoA questing) is.**
+- **Isgebind's Hearts:** 1 per piece's 119 step → **5 needed** for the set; you have **4+**, so confirm/
+  grab **1 more** (Abyssea-Uleguerand) or use the **H-P Bayld** alternative. [CONFIRM exact Heart count —
+  the 109 step may not consume one.]
+- **Alternate +2 path exists** (Monisette, using Etched Memory + an NM boss drop like Macuil Horn /
+  Tartarian Chain / Plovid Effluvium + higher chapters) — that one **costs AH gil**, so **stick with the
+  Sortie path**, which is cheaper for you.
+
+### Artifact (Assimilator) — both pieces already 119; cost = the **+2 step only**
+Body and Head are already at **+1 (119)**, so the 109/119 materials are **already paid** (for reference
+they used Imperial Silk Cloth + the head/body slot material + chapters — **[CONFIRM exact list]**;
+Imperial Silk Cloth price unresolved on FFXIAH). The remaining cost per piece, at **Coelestrox**:
+
+| Input | Cost | AH-buyable? |
+|---|---|---|
+| Guild-Vendor synthesis materials | **~1,126,125 gil per piece (FIXED)** | No — NPC vendor, fixed price |
+| BLU Paragon Job Cards | 6–10 per piece [CONFIRM per slot] | No — Omen |
+| Unity Wanted coffer material | 1 per piece [CONFIRM which NM per slot] | No — Unity NMs |
+| Escha Beads (delivery) | 10 = next game-day / 500 = instant | No — content currency |
+
+- **Artifact remaining = ~2,252,250 gil** (Body + Head, the fixed Guild-Vendor synth purchase) **+ Paragon
+  cards + content.** This fixed ~1.13M/piece is the **single biggest gil line in your whole plan.**
+
+### Relic (Luhlaza) — Delve-tier mats; the **real AH gil sink**
+Reforge mats are expensive Delve materials. **+2 is content** (Aurix, via a Dynamis-D visit on BLU —
+**but it also consumes a job/slot Shard**, e.g. *Footshard/Bodyshard: BLU*, from Dyna-D drops or 3
+Beastmen's Medals each — not AH).
+
+| Slot / piece | Your status | 109 mats (Bahamut) | 119 mats (Bahamut) | Remaining AH mats |
+|---|---|---|---|---|
+| Legs — Luhlaza Shalwar | **already 119** → +2 only | — (done) | — (done) | **0** (just Dyna-D + Shard) |
+| Feet — Luhlaza Charuqs | not owned → full ladder | M. Silverpiece ×2 (800k) + Griffon Hide (60k) + Oxblood (20k) = **880k** | Pil's Tuille (800k) + feet metal **[CONFIRM]** | **≈1,680,000+** |
+| Body — Luhlaza Jubbah | not owned → full ladder | M. Silverpiece ×2 (800k) + Griffon Hide (60k) + Malboro Fiber (70k) = **930k** | Pil's Tuille (800k) + Yggdreant Bole (790k) = **1,590k** | **≈2,520,000** |
+
+- **Relic Feet + Body remaining AH mats ≈ 4,200,000+ gil** (M. Silverpiece 400k ea, Pil's Tuille 800k,
+  Yggdreant Bole 790k, Waktza Rostrum 550k are the big-ticket items). Legs is free (already 119).
+- These are **thin-traded** — prices swing; re-check before buying, and consider farming Dyna-D
+  Ancient Currency to fund them (→ [`ACCOUNT_PROGRESSION.md` → Dynamis-D](./ACCOUNT_PROGRESSION.md#4-dynamis-divergence--relic-23-fuel-blu)).
+
+### Bottom line — your remaining AH/gil spend through +2
+| Set | AH-buyable mats | Fixed Guild-Vendor gil | Content-only (no gil) |
+|---|---|---|---|
+| Empyrean | ~220,000 | — | Gallimaufry + Sapphire, Vagary titles, ~5 Isgebind's Hearts |
+| Artifact | ~0 (already 119) | ~2,252,250 (Body+Head +2 synth) | Paragon cards, Unity coffer, Escha Beads |
+| Relic | ~4,200,000 (Feet+Body) | — | Dyna-D Shards |
+| **TOTAL** | **~4.4M** | **~2.25M** | — |
+
+**≈ 6.7M gil of buyable cost** stands between you and the full 7/10+ set at +2 — against **under 5M on
+hand**. So gil farming is a real prerequisite: see [`ACCOUNT_PROGRESSION.md` → Gil Engine](./ACCOUNT_PROGRESSION.md#the-gil-engine--solving-the-under-5m-problem).
+Sequencing tip: **Empyrean mats are trivial (~220k)** — gil is no obstacle there, so it's purely
+Vagary-gated. The gil is really needed for **Artifact +2 (~2.25M)** and **Relic Feet/Body (~4.2M)**.
 
 ---
 
