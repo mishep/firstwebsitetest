@@ -59,7 +59,7 @@ the gated block is "fill" you can do any time.
   augments via Abdhaljs materials), plus sellable materials and useful consumables.
 - **Feeds:**
   - **RUN tank** → the **Ogma's Cape** built DT+enmity is RUN's single best easy-to-get piece. See
-    [`RUN_PROGRESSION.md` → Section C, item 2](./RUN_PROGRESSION.md#section-c--tank-gear-no-run-armor-yet).
+    [`RUN_PROGRESSION.md` → Section C, item 2](./RUN_PROGRESSION.md#section-d--tank-gear).
   - **BLU** → its own augmented cape and capacity/utility items.
   - **Gil** → surplus hallmark trades and material drops.
 - **Why first:** lowest effort, highest guaranteed daily value, and the only source of the augmented
@@ -93,7 +93,7 @@ the gated block is "fill" you can do any time.
   Confirmed costs: **+2 = 10,000 Gallimaufry + 1 Ra'Kaznar Sapphire per piece; +3 = 70,000 Gallimaufry
   + 1 Ra'Kaznar Starstone per piece** (traded to **Ruspix**).
 - **Also feeds RUN:** the **Erilaz** tank pieces (reforged Empyrean) take the **same Sortie +2 path** —
-  see [`RUN_PROGRESSION.md` → Section C, item 4](./RUN_PROGRESSION.md#section-c--tank-gear-no-run-armor-yet).
+  see [`RUN_PROGRESSION.md` → Section C, item 4](./RUN_PROGRESSION.md#section-d--tank-gear).
 - **Important nuance:** Gallimaufry is **capped at 100,000 held** until you finish *The Voracious
   Resurgence* missions. That's enough to bank toward several +2s now, but you can't hoard for the big
   +3 (70k) pushes until that cap is lifted. **[CONFIRM current cap in-game.]**
@@ -124,7 +124,7 @@ the gated block is "fill" you can do any time.
   to your reward; **Lustreless drops stack to 99 and sell ~1M each**).
 - **Feeds:**
   - **RUN tank** → **Nyame** is the endgame defensive base set. See
-    [`RUN_PROGRESSION.md` → Section C, item 5](./RUN_PROGRESSION.md#section-c--tank-gear-no-run-armor-yet).
+    [`RUN_PROGRESSION.md` → Section C, item 5](./RUN_PROGRESSION.md#section-d--tank-gear).
   - **Gil** → one of your best per-hour sources (see **Gil Engine**).
   - BLU long-term → Nyame is also a strong BLU defensive/hybrid base.
 - **Plan:** run **Sheol A/B** now for segments, gil, and safety; graduate to **Sheol C** for Nyame mats
